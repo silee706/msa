@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "Catalogs"
+	},
+	{
+		"path": "Customers"
+	},
+	{
+		"path": "EurekaServer"
+	},
+	{
+		"path": "ZuulServer"
+	},
+	{
+		"path": "ConfigServer"
+	},
+	{
+		"path": "ConfigClient"
+	},
+	{
+		"path": "Sidecar"
+	}
+],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "disabled"
+  }
+}
